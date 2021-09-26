@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TCP-server/1.0.0": {
+        "runtime": {
+          "TCP-server.dll": {}
+        }
+      },
+      "Football Player/1.0.0": {
+        "runtime": {
+          "Football Player.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCP-server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Football Player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
